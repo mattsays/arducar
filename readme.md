@@ -27,9 +27,11 @@ Finally too make the mechanics I used Fusion360, this design is actually my seco
 
 So after some adjustments I made it more pleasable to the eye and this is my attempt!
 
-![mechanics_0](https://github.com/mattsays/arducar/blob/main/images/mechanics_0.png?raw=true)
+This is the top part
+![top part](https://github.com/mattsays/arducar/blob/main/images/mechanics_0.png?raw=true)
 
-![mechanics_1](https://github.com/mattsays/arducar/blob/main/images/mechanics_1.png?raw=true)
+And this is the bottom one
+![bottom part](https://github.com/mattsays/arducar/blob/main/images/mechanics_1.png?raw=true)
 
 the 3d parts have been printed with my wonderful Ender 3.
 
