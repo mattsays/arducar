@@ -1,6 +1,6 @@
 # ArduCar
 
-![arducar](https://github.com/mattsays/arducar/blob/main/images/arducar.png?raw=true)
+![arducar](images/arducar_0.png)
 
 ## About the project
 
@@ -23,15 +23,15 @@ Besides those imperfections, It works perfectly as I wanted to.
 
 Finally too make the mechanics I used Fusion360, this design is actually my second iteration after this one:
 
-![the first arducar](https://github.com/mattsays/arducar/blob/main/images/arducar_1_0.png?raw=true)
+![the first arducar](images/arducar_1.png)
 
 So after some adjustments I made it more pleasable to the eye and this is my attempt!
 
 This is the top part
-![top part](https://github.com/mattsays/arducar/blob/main/images/mechanics_0.png?raw=true)
+![top part](images/mechanics_0.png)
 
 And this is the bottom one
-![bottom part](https://github.com/mattsays/arducar/blob/main/images/mechanics_1.png?raw=true)
+![bottom part](images/mechanics_1.png)
 
 the 3d parts have been printed with my wonderful Ender 3.
 
